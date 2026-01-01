@@ -7,7 +7,7 @@ Inspired by clean, bold personal brand websites with strong visuals and smooth i
 
 🚀 Live Preview
 
-👉 [https://github.com/itzshubh1008/SHuBH]
+👉 [https://itzshubh1008.github.io/SHuBH/]
 
 ✨ Features
 
@@ -53,3 +53,4 @@ Styling: CSS / Tailwind CSS
 Animations: CSS / JavaScript / Framer Motion
 
 Deployment: GitHub Pages / Vercel / Netlify
+
